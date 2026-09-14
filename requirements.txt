@@ -1,0 +1,11 @@
+# First-stage runtime dependencies.
+# sqlite3, imaplib, email, asyncio, secrets and ssl are from Python's standard library.
+cryptography>=43,<47
+pyotp>=2.9,<3
+python-dotenv>=1.0,<2
+
+# Planned later-stage components; intentionally not installed in the first stage.
+# playwright>=1.50,<2
+# apscheduler>=3.10,<4
+# fastapi>=0.115,<1
+# uvicorn[standard]>=0.30,<1

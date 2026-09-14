@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Secrets and local data
+.env
+.env.*
+!.env.example
+*.sqlite3
+*.sqlite3-*
+*.db
+data/
+*.pem
+*.key
+
+# JavaScript and builds
+node_modules/
+dist/
+build/
+coverage/
+.wrangler/
+
+# Local operational material (contains infrastructure-specific details)
+tools/
+artifacts/
+preview-handdraw/
+preview-home-server.js
+preview-*.png
+audit-*.png
+local-polished-*.png
+promo-strip-*.png
+node-refresh-note-preview.png
+dashboard/public/apple-id-usage-notice.jpg
+**/AGENTS.md
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Test and coverage outputs
+coverage.xml
+.coverage
+htmlcov/

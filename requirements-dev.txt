@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest>=8,<10
+
+# Optional local linting tool. Some restricted package indexes do not mirror it.
+# ruff>=0.9,<1
