@@ -9,6 +9,9 @@ const projectRoot = realpathSync(fileURLToPath(new URL(".", import.meta.url)));
 
 export default defineConfig({
   root: projectRoot,
+  // The local public folder contains private prototype reference material and
+  // must never be copied into public builds.
+  publicDir: false,
   // Relative asset paths allow the same build to work on a GitHub Pages project URL.
   base: "./",
   build: {
