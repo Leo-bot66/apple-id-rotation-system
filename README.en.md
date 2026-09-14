@@ -15,6 +15,8 @@ Apple ID Rotation System is a credential-rotation framework for **test accounts 
 - Explicit adapter boundaries for status checks and remote rotation; no third-party site automation is included.
 - A React dashboard populated exclusively with fictional `.example` data.
 
+> **CAPTCHA note:** Any image-CAPTCHA workflow added for an authorized test environment requires a separate recognition provider. The author uses Chaojiying, which is mentioned only as personal implementation context and is not an endorsement. Please research and evaluate providers independently. No CAPTCHA recognition or bypass integration is included in this public repository.
+
 ## Quick start
 
 Python 3.11 or 3.12 is recommended.
