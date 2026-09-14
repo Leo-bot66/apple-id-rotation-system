@@ -88,23 +88,42 @@ npm run dev
 
 ---
 
-## 写在最后
+<h2 align="center">✨ 写在最后 ✨</h2>
 
-这个项目由我凭着一些并不成熟的代码能力，与 GPT-5.6 历时半个月共同打磨，最后再由 GPT-6 完成审计后上线。项目不含后门和套路，欢迎各位小伙伴监督。如果你觉得项目不错，还请点亮右上角的 **Star 小心心** 支持一下，谢谢！
+<p align="center">
+  这个项目由我凭着一些并不成熟的代码能力，与 <strong>GPT-5.6</strong> 历时半个月共同打磨，<br>
+  最后再由 <strong>GPT-6</strong> 完成审计后上线。
+</p>
 
-下面是本小店的特色业务。有需要的小伙伴也欢迎赞助支持，我会持续优化这个项目。
+<p align="center">
+  项目不含后门和套路，欢迎各位小伙伴监督。<br>
+  如果你觉得项目不错，还请点亮右上角的 <strong>⭐ Star 小心心</strong> 支持一下，谢谢！
+</p>
 
-### Newbee 小铺
+<p align="center">
+  下面是本小店的特色业务。有需要的小伙伴也欢迎赞助支持，<br>
+  我会持续优化这个项目。
+</p>
 
-[![Newbee 小铺个人 IP 形象：全网苹果 ID 最低价](docs/assets/newbee-store-banner.jpg)](https://nb.tangping.icu/)
+<h3 align="center">🐝 Newbee 小铺</h3>
 
-**导航页：** [https://nb.tangping.icu/](https://nb.tangping.icu/)
+<p align="center">
+  <a href="https://nb.tangping.icu/">
+    <img src="docs/assets/newbee-store-banner.jpg" width="520" alt="Newbee 小铺个人 IP 形象：全网苹果 ID 最低价">
+  </a>
+</p>
 
-- **各区苹果 ID 小铺：** 一件也是批发价；小火箭 ID 批发零售 15 元，量大还可再优惠。
-- **特色机场服务：** 真三网优化 + 独家朝鲜节点，AI + 国内社媒 IP 显示，“装逼”与实用两不误。
+<h2 align="center">
+  <a href="https://nb.tangping.icu/">🌐 https://nb.tangping.icu/</a>
+</h2>
 
-### 关注作者
+| 🍎 各区苹果 ID 小铺 | 🌐 特色机场服务 |
+| --- | --- |
+| 一件也是批发价；小火箭 ID 批发零售 15 元，量大还可再优惠。 | **特色机场服务：**真三网优化+独家朝鲜节点，AI+国内社媒IP展示，装逼与实用两不误。 |
 
-欢迎关注我的 X，及时了解作者和项目的最新动向：
+<h3 align="center">关注作者</h3>
 
-**[@EricLee1108](https://x.com/EricLee1108)**
+<p align="center">
+  欢迎关注我的 X，及时了解作者和项目的最新动向：<br><br>
+  <strong><a href="https://x.com/EricLee1108">𝕏 @EricLee1108</a></strong>
+</p>
