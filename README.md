@@ -1,4 +1,4 @@
-# Account Rotation Foundation
+# 新一代苹果ID轮转系统
 
 [English](README.en.md) | 简体中文
 
@@ -87,3 +87,6 @@ npm run dev
 ## 许可证
 
 本项目使用 [MIT License](LICENSE)。
+写在最后，此代码可以提交给任意AI帮你完成制作，你需要一台2核4G以上性能的服务器+自备各区苹果ID，参考页：https://id.tangping.icu
+此开源项目支持各位大佬发给AI审核，保证无后门无套路，本人也是GPT5使用gpt5.6sol持续优化了半个月+gpt6最终审核发出来的，请各位大佬看在浪费这么多token份上拿走的同时帮忙点一个小星星，谢谢了！
+另本小铺批发各区苹果id，一件也是批发价，欢迎各位大佬来全网比价，以及三网优化+独家朝鲜节点机场，欢迎免费试用，谢谢啦 https://nb.tangping.icu    👈
