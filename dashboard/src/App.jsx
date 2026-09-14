@@ -145,8 +145,8 @@ export function App() {
       {isUsageNoticeOpen && <UsageNoticeModal onClose={() => setIsUsageNoticeOpen(false)} />}
       <main className="page-shell">
       <header className="header">
-        <h1>测试账号状态面板</h1>
-        <p>内部测试资产演示页 · 不包含真实第三方账号或生产凭据</p>
+        <h1>苹果ID轮转系统</h1>
+        <p>测试账号状态面板 · 不包含真实第三方账号或生产凭据</p>
       </header>
 
       <section className="top-notice" id="demo-notice" aria-label="安全说明">
@@ -180,7 +180,7 @@ export function App() {
 
       <footer className="disclaimer">
         <p><strong>说明：</strong>本地原型只用于验证前端布局和复制反馈，不连接邮箱或任何远端账号系统。</p>
-        <p className="copyright">© 2026 Internal QA Asset Console · Demo only</p>
+        <p className="copyright">© 2026 苹果ID轮转系统 · Demo only</p>
       </footer>
       </main>
     </>

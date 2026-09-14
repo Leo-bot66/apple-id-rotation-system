@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve Account Rotation Foundation.
+Thanks for helping improve Apple ID Rotation System.
 
 ## Ground rules
 

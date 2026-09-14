@@ -1,10 +1,10 @@
-# Account Rotation Foundation
+# Apple ID Rotation System
 
 English | [简体中文](README.md)
 
-A credential-rotation foundation for **authorized internal test accounts**. It includes encrypted storage, TOTP generation, read-only IMAP access, orchestration boundaries, and a demo dashboard backed only by fictional data.
+Apple ID Rotation System is a credential-rotation framework for **test accounts you own or are explicitly authorized to manage**. It includes encrypted storage, TOTP generation, read-only IMAP access, orchestration boundaries, and a demo dashboard backed only by fictional data.
 
-> This project is not affiliated with Apple. It does not implement automated login, CAPTCHA bypass, verification-code interception, or bulk account operations for Apple ID or any other third-party consumer service.
+> This project is not affiliated with Apple Inc. Do not use it with unauthorized accounts. The public edition does not implement verification-code bypass, CAPTCHA evasion, or bulk third-party account operations.
 
 ## Features
 

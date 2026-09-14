@@ -1,7 +1,7 @@
 {
-  "name": "account-rotation-demo-dashboard",
+  "name": "apple-id-rotation-dashboard",
   "version": "0.1.0",
-  "description": "Sanitized demo dashboard for Account Rotation Foundation",
+  "description": "Sanitized demo dashboard for Apple ID Rotation System",
   "private": true,
   "license": "MIT",
   "type": "module",
