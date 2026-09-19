@@ -141,18 +141,21 @@ npm run dev
 <h3 align="center">🐝 Newbee 小铺</h3>
 
 <p align="center">
-  <a href="https://nb.tangping.icu/">
+  <a href="https://gg.tangping.icu/">
     <img src="docs/assets/newbee-store-banner.jpg" width="520" alt="Newbee 小铺个人 IP 形象：全网苹果 ID 最低价">
   </a>
 </p>
 
 <h2 align="center">
-  <a href="https://nb.tangping.icu/">🌐 https://nb.tangping.icu/</a>
+  <a href="https://gg.tangping.icu/">🛒 https://gg.tangping.icu/</a>
 </h2>
 
-| 🍎 各区苹果 ID 小铺 | 🌐 特色机场服务 |
+| 🍎 各区苹果 ID 小铺（付费） | 🆓 免费共享 Apple ID |
 | --- | --- |
-| 一件也是批发价；小火箭 ID 批发零售 15 元，量大还可再优惠。 | **特色机场服务：**真三网优化+独家朝鲜节点，AI+国内社媒IP展示，装逼与实用两不误。 |
+| 一件也是批发价；小火箭 ID 批发零售 15 元，量大还可再优惠。 | 免费共享 Apple ID，用于下载小火箭等被下架应用，账号状态实时可见。 |
+| → [gg.tangping.icu](https://gg.tangping.icu/) | → [id.tangping.icu](https://id.tangping.icu/) |
+
+**特色机场服务：**真三网优化+独家朝鲜节点，AI+国内社媒 IP 展示，装逼与实用两不误。
 
 <h3 align="center">关注作者</h3>
 
