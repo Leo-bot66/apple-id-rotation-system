@@ -163,3 +163,8 @@ npm run dev
   欢迎关注我的 X，及时了解作者和项目的最新动向：<br><br>
   <strong><a href="https://x.com/EricLee1108">𝕏 @EricLee1108</a></strong>
 </p>
+
+
+## 相关项目
+
+- [share-apple-id](https://github.com/Leo-bot66/share-apple-id) —— 每日自动更新的免费共享 Apple ID 账号信息仓库（美区/香港区/台湾区）
